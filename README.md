@@ -17,7 +17,7 @@ Welcome to Codid! We are a technology organization building applications across 
      - Program exploration
      - Event creation and participation
      - Poll creation for event planning
-   - ![Build Up Egypt Logo](path/to/build-up-logo.png)
+   - ![Build Up Egypt Logo](/Buildup.jpg)
 
 ---
 
