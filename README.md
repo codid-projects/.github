@@ -28,7 +28,7 @@ Welcome to Codid! We are a technology organization building applications across 
      - Pedigree tracking and analysis
      - Library of horse-related books
      - Breeding match suggestions (male and female horses)
-   - ![Studbook Logo](path/to/studbook-logo.png)
+   - ![Studbook Logo](Studbook.jpg)
 
 ---
 
