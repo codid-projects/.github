@@ -1,6 +1,6 @@
 # Codid Organization
 
-![Codid Logo](path/to/codid-logo.png)
+![Codid Logo](/logo.jpg)
 
 ## Introduction
 Welcome to Codid! We are a technology organization building applications across various domains: sports and fitness, lifestyle, and utilities. This document will provide you with an overview of our main projects and the technologies we use.
