@@ -28,7 +28,7 @@ Welcome to Codid! We are a technology organization building applications across 
      - Pedigree tracking and analysis
      - Library of horse-related books
      - Breeding match suggestions (male and female horses)
-   - ![Studbook Logo](Studbook.jpg)
+   - ![Studbook Logo](/Studbook.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ Welcome to Codid! We are a technology organization building applications across 
      - Task and project assignment
      - Vacation request management
      - HR operations for companies
-   - ![Shift Logo](Shift.jpg)
+   - ![Shift Logo](/Shift.jpg)
 
 ---
 
