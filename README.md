@@ -39,7 +39,7 @@ Welcome to Codid! We are a technology organization building applications across 
      - Task and project assignment
      - Vacation request management
      - HR operations for companies
-   - ![Shift Logo](path/to/shift-logo.png)
+   - ![Shift Logo](Shift.jpg)
 
 ---
 
