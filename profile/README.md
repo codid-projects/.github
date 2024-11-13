@@ -1,4 +1,4 @@
-# Codid Organization
+#  Welcome to Codid Organization 👋🏼
 
 ![Codid Logo](/logo.jpg)
 
